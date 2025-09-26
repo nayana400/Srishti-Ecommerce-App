@@ -20,9 +20,6 @@ npm install
 npm run dev
 Runs on http://localhost:5173 (default Vite port).
 
-
-Runs on http://localhost:3000
-
 4. Libraries Used
 
 React
