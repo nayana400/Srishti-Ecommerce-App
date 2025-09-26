@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../assets/logo.png";
+import Logo from "../../assets/logo.webp";
 import { IoMdSearch } from "react-icons/io";
 import { FaCartShopping } from "react-icons/fa6";
 import { FaCaretDown } from "react-icons/fa";
@@ -51,7 +51,7 @@ const Navbar = ({ handleOrderPopup }) => {
               to="/"
               className="d-flex align-items-center text-decoration-none text-dark fw-bold fs-4"
             >
-              <img src={Logo} alt="Logo" className="logo-img me-2" />
+              <img src={Logo} alt="Logo" width="50" height="50" className="logo-img me-2" />
               ShopEase
             </Link>
           </div>
