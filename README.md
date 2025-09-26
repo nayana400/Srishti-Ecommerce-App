@@ -1,6 +1,6 @@
 # E-commerce App (Frontend Only)
 
-A simple React-based E-commerce application built with **Vite** that demonstrates product listing, cart management, and a checkout flow using dummy data (no backend).
+A simple React-based E-commerce application built with  `React + Vite` that demonstrates product listing, cart management, and a checkout flow using dummy data (no backend).
 
 1. Setup Instructions
 
